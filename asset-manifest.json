@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypto-converter/static/css/main.96ead054.css",
+    "main.js": "/crypto-converter/static/js/main.d91146a7.js",
+    "static/media/pexels-crypto-crow-643283-1447418.jpg": "/crypto-converter/static/media/pexels-crypto-crow-643283-1447418.46c99a64f6ca021d7b7b.jpg",
+    "index.html": "/crypto-converter/index.html",
+    "main.96ead054.css.map": "/crypto-converter/static/css/main.96ead054.css.map",
+    "main.d91146a7.js.map": "/crypto-converter/static/js/main.d91146a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96ead054.css",
+    "static/js/main.d91146a7.js"
+  ]
+}
